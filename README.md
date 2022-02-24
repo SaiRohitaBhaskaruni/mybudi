@@ -1,2 +1,2 @@
 # mybudi
-Hi! this is my first repsitory
+Hi! this is my first repository
